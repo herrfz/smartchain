@@ -25,7 +25,7 @@
     "lodash": "^4.17.15",
     "pubnub": "^4.27.2",
     "request": "^2.88.0",
-    "uuid": "^3.3.3"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
